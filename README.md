@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gilberto-Felipe
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning .NET CORE Framework.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on backend projects.
 - 📫 You can reach me at https://gilberto-ramirez.me/
 
 <!---
